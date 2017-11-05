@@ -1,0 +1,9 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="http://sandbox.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\Shared\Basic.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{83FF3BF9-93E7-45C0-A049-8A4B19280BA7}</Item>
+  </File>
+  <File Include="App_Config\Include\SandboxSiteDefinition.config" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+</Project>
