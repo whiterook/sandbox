@@ -1,3 +1,10 @@
 ﻿<Project>
-  <FolderSync SynchronizeProjectOutputFolderOnBuild="False" />
+  <FolderSync SynchronizeProjectOutputFolderOnBuild="False">
+    <Folder SourceFolder="Views\" DestinationFolder="Views\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="assets\" DestinationFolder="assets\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="assets\css\" DestinationFolder="assets\css\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="assets\fonts\" DestinationFolder="assets\fonts\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="assets\js\" DestinationFolder="assets\js\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="assets\Images\" DestinationFolder="assets\Images\" Mode="Copy" Pattern="*.*" />
+  </FolderSync>
 </Project>
