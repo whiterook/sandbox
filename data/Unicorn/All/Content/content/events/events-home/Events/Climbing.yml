@@ -1,0 +1,24 @@
+﻿---
+ID: "f5c6d7cf-b6b3-4cb5-ac6a-a46b1387eed5"
+Parent: "7b72610b-459b-464f-a171-9cc67c7db167"
+Template: "70a43fa9-7fc0-4f5d-8a8a-0ba8e7f603ff"
+Path: "/sitecore/content/events/events-home/Events/Climbing"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171106T003206Z
+    - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
+      Hint: Description
+      Value: Climbing
+    - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+      Hint: Title
+      Value: Climbing
+    - ID: "69808455-45b4-4131-a923-4e16d5977009"
+      Hint: Banner
+      Value: |
+        <image mediapath="/sandbox/events/climbing-events" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/sandbox/events/climbing-events" mediaid="{D24DA677-BC1B-4477-B190-22B5ED93A814}" />

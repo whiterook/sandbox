@@ -1,0 +1,20 @@
+﻿---
+ID: "c6590758-6c63-42cc-92ce-9e9e37640cbb"
+Parent: "ac11f753-8677-49da-8897-8d45e65e5607"
+Template: "8b0b7d1a-d359-4871-90d2-347de60fad4f"
+Path: "/sitecore/content/events/events-home/Events/Hiking/Hiking Pikes Peak"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171106T003547Z
+    - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
+      Hint: Description
+      Value: Hiking Pikes Peak
+    - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+      Hint: Title
+      Value: Hiking Pikes Peak

@@ -1,0 +1,92 @@
+﻿---
+ID: "5039a406-0cc9-4318-a029-c649d77ccd2c"
+Parent: "ff0bc016-2d01-4f55-a020-ef6fc2fe7559"
+Template: "664e5035-eb8c-4ba1-9731-a098fcc9127a"
+Path: "/sitecore/system/Settings/Rules/Insert Options/Rules/Data Exchange - File System Provider"
+DB: master
+SharedFields:
+- ID: "fa307b86-da2a-44bd-887d-e2057cdb4948"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{29B6276D-5E1C-4DE9-A565-999733454B8B}"
+        name="Endpoints Providers Root">
+        <actions>
+          <action
+            id="{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}"
+            uid="7982A643D2924EE5B88F4AB67B108257"
+            insertoptionid="{37AC5292-CF4B-4CB7-AE65-F61D65F53619}" />
+        </actions>
+        <conditions>
+          <and
+            uid="9764AF48BF83487A8E216F9A04D593CD">
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="6B67ED15AA3E4A6499DDCD1DD297B2A1"
+              templateid="{6F05FFD0-4C1B-44AE-87E5-B015E1DAC352}" />
+            <condition
+              id="{5CD2292C-32AC-4976-AA4F-A741555D22F8}"
+              uid="F0E5FFC70B484DC88C362F0DD57D406B"
+              query="./*[@@templateid='{E77DD07E-5440-47C9-9995-17914FABF035}']"
+              except="true" />
+          </and>
+        </conditions>
+      </rule>
+      <rule
+        uid="{17F7BCC0-63B6-46EE-8BBE-C44BFFDC8868}"
+        name="Pipelines">
+        <actions>
+          <action
+            id="{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}"
+            uid="8F3C1936F41A4E1FA63F08D9A500FE88"
+            insertoptionid="{BB3E3BAB-7497-4B84-A13B-46DEC07002B3}" />
+        </actions>
+        <conditions>
+          <condition
+            id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+            uid="211CD57BE0694947A61A80B3FAF9BEE6"
+            templateid="{2DC9C843-B841-483C-BB9B-AE0C9386404C}" />
+        </conditions>
+      </rule>
+      <rule
+        uid="{AFA6D15A-DA2C-47AF-B82B-CA67A36928AE}"
+        name="Value Accessor Sets Providers Root">
+        <actions>
+          <action
+            id="{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}"
+            uid="F44F41C0A79C487D96BAD4A673C6D0EA"
+            insertoptionid="{1891C969-5D8E-47C5-9865-D34E9B77514C}" />
+        </actions>
+        <conditions>
+          <and
+            uid="342B4A4B06384299BD99F0B5CBF8AD92">
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="4CFA323CED7F4EF588F9C4ED6DE70D83"
+              templateid="{BB7B0FCD-8619-4C50-A012-6BE3BB21A749}" />
+            <condition
+              id="{5CD2292C-32AC-4976-AA4F-A741555D22F8}"
+              uid="4A0210B567594677987D24A2119B889E"
+              query="./*[@@templateid='{FDBF2B3A-A813-49AC-A6F0-DB6207D15AE7}']"
+              except="true" />
+          </and>
+        </conditions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T223919Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9e0287d9-af90-41ad-8d36-332375e194d6"
+      Hint: Name
+      Value: Add insert options for the File System provider for the Data Exchange Framework

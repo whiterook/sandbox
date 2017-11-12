@@ -1,0 +1,30 @@
+﻿---
+ID: "787474bb-00ee-43ff-ab8a-fe9de5baf6f6"
+Parent: "754004a1-5233-49f2-b63a-a0d8b85e83ac"
+Template: "754004a1-5233-49f2-b63a-a0d8b85e83ac"
+Path: /sitecore/templates/Sandbox/Events/Pages/Events Home Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {34A79D7B-A2CA-4DCD-9DE1-25A1281DCFC9}
+    {D8F6BCF4-0357-4D22-A2D3-6B1CFC1E843E}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{57E9D492-7D60-49C5-B227-B8E816DBFC31}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171106T000048Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "167d614f-448b-432b-83e5-71dba3a911fd"
+Parent: "8b0b7d1a-d359-4871-90d2-347de60fad4f"
+Template: "8b0b7d1a-d359-4871-90d2-347de60fad4f"
+Path: /sitecore/templates/Sandbox/Events/Pages/Event Detail Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171105T235938Z
+    - ID: "c6a4d03a-6241-443d-ac52-3a4170280196"
+      Hint: Highlights
+      Value: List event highlights here...

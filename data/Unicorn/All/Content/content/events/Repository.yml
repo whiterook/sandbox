@@ -1,0 +1,14 @@
+﻿---
+ID: "ecf6eb64-649f-4301-b3ff-ced6312f86e7"
+Parent: "44876c2a-1542-46b7-b2cd-0d0befe9af00"
+Template: "93716ba6-a8c5-418d-a4be-d78dd9e3f6b4"
+Path: /sitecore/content/events/Repository
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171031T015853Z

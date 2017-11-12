@@ -48,6 +48,9 @@
     <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Configy, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Configy.1.0.0\lib\net45\Configy.dll</HintPath>
+    </Reference>
     <Reference Include="Facebook, Version=5.4.1.0, Culture=neutral, PublicKeyToken=58cb4f2111d1e6de, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Facebook.5.4.1.0\lib\net40-client\Facebook.dll</HintPath>
     </Reference>
@@ -56,6 +59,9 @@
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
       <HintPath>..\..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Kamsar.WebConsole, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Kamsar.WebConsole.2.0.0\lib\net40\Kamsar.WebConsole.dll</HintPath>
     </Reference>
     <Reference Include="Lucene.Net, Version=3.0.3.0, Culture=neutral, PublicKeyToken=85089178b9ac3181, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Lucene.Net.3.0.3\lib\NET40\Lucene.Net.dll</HintPath>
@@ -93,6 +99,9 @@
     <Reference Include="MarkdownSharp, Version=1.14.5.0, Culture=neutral, PublicKeyToken=eb89951a0d41ab86, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Markdown.1.14.6\lib\net45\MarkdownSharp.dll</HintPath>
     </Reference>
+    <Reference Include="MicroCHAP, Version=1.2.2.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MicroCHAP.1.2.2.2\lib\net45\MicroCHAP.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.AspNet.WebApi.Extensions.Compression.Server, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Microsoft.AspNet.WebApi.Extensions.Compression.Server.2.0.6\lib\net45\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll</HintPath>
     </Reference>
@@ -127,6 +136,15 @@
     </Reference>
     <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Rainbow, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Rainbow.Core.2.0.0\lib\net452\Rainbow.dll</HintPath>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Sc, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Rainbow.Storage.Sc.2.0.0\lib\net452\Rainbow.Storage.Sc.dll</HintPath>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Yaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Rainbow.Storage.Yaml.2.0.0\lib\net452\Rainbow.Storage.Yaml.dll</HintPath>
     </Reference>
     <Reference Include="RazorGenerator.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
       <HintPath>..\..\packages\RazorGenerator.Mvc.2.4.2\lib\net40\RazorGenerator.Mvc.dll</HintPath>
@@ -271,6 +289,14 @@
     </Reference>
     <Reference Include="Sitecore.ControlPanel, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Sitecore.ControlPanel.8.2.170728\lib\NET452\Sitecore.ControlPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.DataExchange, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Sitecore.DataExchange.1.4.170419\lib\NET452\Sitecore.DataExchange.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.DataExchange.DataAccess, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Sitecore.DataExchange.DataAccess.1.4.170419\lib\NET452\Sitecore.DataExchange.DataAccess.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.ExperienceAnalytics, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Sitecore.ExperienceAnalytics.8.2.170728\lib\NET452\Sitecore.ExperienceAnalytics.dll</HintPath>
@@ -646,6 +672,9 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Unicorn, Version=4.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Unicorn.Core.4.0.2\lib\net452\Unicorn.dll</HintPath>
+    </Reference>
     <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
       <HintPath>..\..\packages\WebActivatorEx.2.0.6\lib\net40\WebActivatorEx.dll</HintPath>
     </Reference>
@@ -675,6 +704,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\PlaceholderKeys.cs" />
+    <Compile Include="Features\DataExchange\Converters\DataAccess\ArrayValueAccessorConverter.cs" />
+    <Compile Include="Features\DataExchange\Converters\DataAccess\MergeColumnsConverter.cs" />
+    <Compile Include="Features\DataExchange\Converters\Endpoints\TextFileEndpointConverter.cs" />
+    <Compile Include="Features\DataExchange\Converters\PipelineSteps\ReadTextFileStepConverter.cs" />
+    <Compile Include="Features\DataExchange\Extensions\EndpointExtensions.cs" />
+    <Compile Include="Features\DataExchange\Models\ItemModels\DataAccess\ArrayValueAccessorItemModel.cs" />
+    <Compile Include="Features\DataExchange\Models\ItemModels\DataAccess\MergeColumnsItemModel.cs" />
+    <Compile Include="Features\DataExchange\Models\ItemModels\Endpoints\TextFileEndpointItemModel.cs" />
+    <Compile Include="Features\DataExchange\Models\ItemModels\PipelineSteps\ReadTextFileStepItemModel.cs" />
+    <Compile Include="Features\DataExchange\Plugins\TextFileSettings.cs" />
+    <Compile Include="Features\DataExchange\Processors\PipelineSteps\ReadTextFileStepProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -790,6 +830,21 @@
     <Content Include="assets\fonts\open-sans-v13-latin-regular.ttf" />
     <Content Include="assets\fonts\open-sans-v13-latin-regular.woff" />
     <Content Include="assets\fonts\open-sans-v13-latin-regular.woff2" />
+    <Content Include="App_Config\Include\Rainbow.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.PowerShell.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Dilithium.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.config" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
@@ -809,13 +864,8 @@
     <Folder Include="App_Config\Include\z.sitecore.sandbox\" />
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Features\DataExchange\Models\ItemModels\ValueReader\" />
     <Folder Include="Models\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Sandbox.Data\Sandbox.Data.csproj">
-      <Project>{89bbf746-b64b-400c-8ad8-95522557bbd3}</Project>
-      <Name>Sandbox.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

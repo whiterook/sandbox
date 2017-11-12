@@ -1,0 +1,20 @@
+﻿---
+ID: "d42d8d58-ae4c-43b7-8d13-59d0b165d616"
+Parent: "dde9e3ff-b0c6-4c2b-8483-b9583c9203f7"
+Template: "caac2e3d-2801-4161-a149-cde717fca3a4"
+Path: "/sitecore/content/careers/careers-home"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171104T220441Z
+    - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
+      Hint: Description
+      Value: "careers-home"
+    - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+      Hint: Title
+      Value: "careers-home"

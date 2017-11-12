@@ -6,5 +6,6 @@
     <Folder SourceFolder="assets\fonts\" DestinationFolder="assets\fonts\" Mode="Copy" Pattern="*.*" />
     <Folder SourceFolder="assets\js\" DestinationFolder="assets\js\" Mode="Copy" Pattern="*.*" />
     <Folder SourceFolder="assets\Images\" DestinationFolder="assets\Images\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="App_Config\Include\Unicorn\" DestinationFolder="App_Config\Include\Unicorn\" Mode="Copy" Pattern="*.*" />
   </FolderSync>
 </Project>

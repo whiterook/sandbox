@@ -1,0 +1,20 @@
+﻿---
+ID: "74799547-1564-4528-bb49-54e8ff7fbe16"
+Parent: "d8ac74ca-02d9-41ac-94c5-8164fa006f52"
+Template: "6fd0db96-8e0e-4d46-bb28-2a2bb09ae081"
+Path: /sitecore/content/careers/Repository/Events Types Folder/1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171025T005200Z
+    - ID: "397818b8-ee5a-467b-9216-eb5222d9d241"
+      Hint: Description
+      Value: Description1
+    - ID: "a1d1dd33-cba1-4ab5-a4e4-2c40839a8b78"
+      Hint: Code
+      Value: 1

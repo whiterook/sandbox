@@ -1,0 +1,14 @@
+﻿---
+ID: "184b94c6-b4c8-4517-8fbc-8217db3de88b"
+Parent: "7c8dc866-0570-4e21-886c-e02a072cd95d"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/sandbox/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171106T004628Z

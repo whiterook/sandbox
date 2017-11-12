@@ -1,0 +1,26 @@
+﻿---
+ID: "f35cfa6a-1262-4354-b886-08cb11bf63d0"
+Parent: "5b26b4df-6720-4cd9-86ff-a76eb01f76cb"
+Template: "5b26b4df-6720-4cd9-86ff-a76eb01f76cb"
+Path: /sitecore/templates/Sandbox/Common/Folders/Site Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {93716BA6-A8C5-418D-A4BE-D78DD9E3F6B4}
+    {CAAC2E3D-2801-4161-A149-CDE717FCA3A4}
+    {754004A1-5233-49F2-B63A-A0D8B85E83AC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171021T132746Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

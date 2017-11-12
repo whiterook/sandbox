@@ -1,0 +1,37 @@
+﻿---
+ID: "d8f6bcf4-0357-4d22-a2d3-6b1cfc1e843e"
+Parent: "e506d6b0-61a6-40e4-98c4-35180a5efc2f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Sandbox/Events/Pages/Events Section Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/window_time.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {29CD5F30-5000-4946-8FBA-13F880DBC9ED}
+    {2AC9DBF9-66F9-49F2-8BF1-D63CCC109710}
+    {E1D56910-2601-407C-8092-5FABDE36DAD8}
+    {2642EECE-3405-42D8-A6F1-17823EB16138}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{D64B4DC8-1A8F-4E89-890F-65FB308E61D1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171105T235025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

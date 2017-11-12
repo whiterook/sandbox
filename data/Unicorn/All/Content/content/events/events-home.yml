@@ -1,0 +1,26 @@
+﻿---
+ID: "d731ea65-2859-402e-a832-fde32f5f93ec"
+Parent: "44876c2a-1542-46b7-b2cd-0d0befe9af00"
+Template: "754004a1-5233-49f2-b63a-a0d8b85e83ac"
+Path: "/sitecore/content/events/events-home"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171106T000823Z
+    - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
+      Hint: Description
+      Value: "events-home"
+    - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+      Hint: Title
+      Value: "events-home"
+    - ID: "82574ad8-45a1-4f12-9b96-54e37f589a5f"
+      Hint: Intro
+      Value: Welcome to the Events site
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: Heading
+      Value: Events

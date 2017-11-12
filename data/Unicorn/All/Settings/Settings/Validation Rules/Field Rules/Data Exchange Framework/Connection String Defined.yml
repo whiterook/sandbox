@@ -1,0 +1,24 @@
+﻿---
+ID: "b3c253f2-4fba-4ed7-90f1-be303c56245c"
+Parent: "880186ce-44df-4c58-b727-a0fb979ad87e"
+Template: "8f8e2549-c77f-4860-b83b-54fa31e2befa"
+Path: /sitecore/system/Settings/Validation Rules/Field Rules/Data Exchange Framework/Connection String Defined
+DB: master
+SharedFields:
+- ID: "43a829d1-43da-465c-b772-ebaa0d515e3e"
+  Hint: Type
+  Value: Sitecore.DataExchange.Local.Validators.FieldValidators.ConnectionStringFieldValidator, Sitecore.DataExchange.Local
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170831T183308Z
+    - ID: "58014183-26fe-4568-b19f-c26745824c32"
+      Hint: Description
+      Value: The specified connection string must be defined on the server.
+    - ID: "da43c533-cbae-43d0-9019-65b1e346f984"
+      Hint: Title
+      Value: Connection String Defined

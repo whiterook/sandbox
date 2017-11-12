@@ -1,0 +1,18 @@
+﻿---
+ID: "0c2b4f0c-80a4-463e-a5d6-8c618d93fdde"
+Parent: "1dcbccb4-368a-4d3c-8215-a5169b230981"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Sandbox/Events/Pages/Event Detail Page/Details/Start Date
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Date
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171105T235845Z

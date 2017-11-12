@@ -1,0 +1,14 @@
+﻿---
+ID: "fbfa12bd-711a-4825-9c9a-aabf57c3134a"
+Parent: "c7e2e69c-8dad-4c02-a2a8-2599dc320494"
+Template: "c7e2e69c-8dad-4c02-a2a8-2599dc320494"
+Path: /sitecore/templates/Sandbox/Common/Folders/Folder/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171021T132736Z

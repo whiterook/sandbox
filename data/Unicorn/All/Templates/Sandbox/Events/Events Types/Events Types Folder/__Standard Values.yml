@@ -1,0 +1,23 @@
+﻿---
+ID: "7c8268d5-950d-49e6-96f9-10dd27ceb7a9"
+Parent: "45315e20-e5a1-4aba-a4ea-2c13d999eb9e"
+Template: "45315e20-e5a1-4aba-a4ea-2c13d999eb9e"
+Path: /sitecore/templates/Sandbox/Events/Events Types/Events Types Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6FD0DB96-8E0E-4D46-BB28-2A2BB09AE081}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171025T002136Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
