@@ -1,16 +1,16 @@
 ﻿---
-ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
-Parent: "29c60891-326e-4694-aa54-0fc73840f733"
+ID: "31a2873a-fdb1-49ea-8851-d631027ad9d3"
+Parent: "58189877-6519-48c0-8a08-e16425f0d47a"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Sandbox/Common/Base/Base Meta/Meta/Description
+Path: /sitecore/templates/Sandbox/Common/Base/Base Content Body/Content/ContentBody
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: "Single-Line Text"
+  Value: Rich Text
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20171021T132921Z
+      Value: 20171112T230723Z

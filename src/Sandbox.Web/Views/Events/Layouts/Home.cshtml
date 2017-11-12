@@ -1,4 +1,5 @@
-﻿@using Sitecore.Mvc
+﻿@using Sandbox.Web.Constants
+@using Sitecore.Mvc
 @using Sitecore.Mvc.Analytics.Extensions
 @using Sitecore.Mvc.Presentation
 @model RenderingModel
@@ -21,8 +22,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <title>The Adventure Company</title>
+    <meta name="description" content=@Html.Sitecore().Field("MetaDescription", new { DisableWebEdit = true }) />
+    <title>@Html.Sitecore().Field("MetaTitle", new { DisableWebEdit = true })</title>
     <link rel="stylesheet" type="text/css" href="/assets/Css/vendor.min.css" />
     <link rel="stylesheet" type="text/css" href="/assets/Css/niteflight.min.css" />
     <link rel="stylesheet" type="text/css" href="/assets/Css/addition.css">
@@ -102,7 +103,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h1>Climbing</h1>
+                                            <h1>@Html.Sitecore().Field("ContentHeading")</h1>
                                             <p class="lead">Up for challenge? See our climbing events.</p>
                                             <a class="btn btn-hollow btn-lg" href="Event-List.html">Read more</a>
                                         </div>
@@ -115,7 +116,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h1>Cycling</h1>
+                                            <h1>@Html.Sitecore().Field("ContentHeading")</h1>
                                             <p class="lead">Happy couple cycling in canola fields.</p>
                                             <a class="btn btn-hollow btn-lg" href="Event-List.html">Read more</a>
                                         </div>
@@ -128,7 +129,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h1>Hiking </h1>
+                                            <h1>@Html.Sitecore().Field("ContentHeading")</h1>
                                             <p class="lead">Hikers group trekking in Crimea.</p>
                                             <a class="btn btn-hollow btn-lg" href="Event-List.html">Read more</a>
                                         </div>
@@ -141,7 +142,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h1>Skiing</h1>
+                                            <<h1>@Html.Sitecore().Field("ContentHeading")</h1>
                                             <p class="lead">Join our skiing event!</p>
                                             <a class="btn btn-hollow btn-lg" href="Event-List.html">Read more</a>
                                         </div>

@@ -9,12 +9,37 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0c2b4f0c-80a4-463e-a5d6-8c618d93fdde"
+      Hint: Start Date
+      Value: 20170803T224200Z
+    - ID: "1f10433a-b85b-45d1-926e-876f4607c967"
+      Hint: Duration
+      Value: 4
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171106T003851Z
+    - ID: "3232163e-4f1e-46c4-b6a4-976c8cd54a69"
+      Hint: Event Image
+      Value: |
+        <image mediaid="{572ADCED-4142-4201-A816-B1F69A0A41D9}" />
     - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
       Hint: Description
       Value: Climb Mount Everest
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
       Hint: Title
       Value: Climb Mount Everest
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: Climbing the Face of Half Dome
+    - ID: "c6a4d03a-6241-443d-ac52-3a4170280196"
+      Hint: Highlights
+      Value: |
+        <ul>
+            <li>Jaw-dropping view down the waterfall from the top of Vernal Falls</li>
+            <li>Staying at the gorgeous Ahwahnee Hotel, a National Historic Landmark</li>
+            <li>Reaching the summit and taking in the spectacular views!</li>
+            <li>The wildflowers and manzanitas of sun-drenched Wawona meadows</li>
+        </ul>
+    - ID: "f6455d24-0804-486d-9b62-50dd626b6d11"
+      Hint: ContentBody
+      Value: The face of Half Dome in Yosemite National Park rises 5000 feet above the valley floor. Glaciers have cleaved the&nbsp;dome clear in half, leaving an incredible slab of rock that has become the most iconic rock climb in the world. The Adventure Company sponsors this is a grade VI climb and participants must have experience climbing. The tour&nbsp;will be led by our most experienced climbing guide who has extensive experience climbing in Yosemite.

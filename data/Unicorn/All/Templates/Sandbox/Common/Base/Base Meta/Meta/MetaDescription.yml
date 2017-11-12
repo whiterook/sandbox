@@ -1,8 +1,8 @@
 ﻿---
-ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
 Parent: "29c60891-326e-4694-aa54-0fc73840f733"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Sandbox/Common/Base/Base Meta/Meta/Title
+Path: /sitecore/templates/Sandbox/Common/Base/Base Meta/Meta/MetaDescription
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
@@ -10,7 +10,7 @@ SharedFields:
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 200
 Languages:
 - Language: en
   Versions:

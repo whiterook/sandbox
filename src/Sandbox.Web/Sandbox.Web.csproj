@@ -704,6 +704,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\PlaceholderKeys.cs" />
+    <Compile Include="Constants\Template.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\ArrayValueAccessorConverter.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\MergeColumnsConverter.cs" />
     <Compile Include="Features\DataExchange\Converters\Endpoints\TextFileEndpointConverter.cs" />
