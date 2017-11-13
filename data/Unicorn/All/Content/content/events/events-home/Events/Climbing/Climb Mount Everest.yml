@@ -5,6 +5,20 @@ Template: "8b0b7d1a-d359-4871-90d2-347de60fad4f"
 Path: "/sitecore/content/events/events-home/Events/Climbing/Climb Mount Everest"
 DB: master
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T001121Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: German Heading
 - Language: en
   Versions:
   - Version: 1
@@ -23,10 +37,10 @@ Languages:
       Value: |
         <image mediaid="{572ADCED-4142-4201-A816-B1F69A0A41D9}" />
     - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
-      Hint: Description
+      Hint: MetaDescription
       Value: Climb Mount Everest
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
-      Hint: Title
+      Hint: MetaTitle
       Value: Climb Mount Everest
     - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
       Hint: ContentHeading

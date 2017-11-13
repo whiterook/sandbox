@@ -13,10 +13,10 @@ Languages:
       Hint: __Created
       Value: 20171106T003230Z
     - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
-      Hint: Description
+      Hint: MetaDescription
       Value: Hiking
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
-      Hint: Title
+      Hint: MetaTitle
       Value: Hiking
     - ID: "69808455-45b4-4131-a923-4e16d5977009"
       Hint: Banner
