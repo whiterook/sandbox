@@ -701,6 +701,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\EventIntroController.cs" />
     <Compile Include="Constants\PlaceholderKeys.cs" />
     <Compile Include="Constants\Template.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\ArrayValueAccessorConverter.cs" />
@@ -714,6 +715,7 @@
     <Compile Include="Features\DataExchange\Models\ItemModels\PipelineSteps\ReadTextFileStepItemModel.cs" />
     <Compile Include="Features\DataExchange\Plugins\TextFileSettings.cs" />
     <Compile Include="Features\DataExchange\Processors\PipelineSteps\ReadTextFileStepProcessor.cs" />
+    <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -844,6 +846,7 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.config" />
+    <Content Include="Views\EventIntro\Index.cshtml" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
@@ -862,9 +865,8 @@
   <ItemGroup>
     <Folder Include="App_Config\Include\z.sitecore.sandbox\" />
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="Areas\" />
     <Folder Include="Features\DataExchange\Models\ItemModels\ValueReader\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
