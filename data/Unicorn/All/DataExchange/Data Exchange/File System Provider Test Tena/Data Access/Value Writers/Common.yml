@@ -1,0 +1,18 @@
+﻿---
+ID: "b969643b-54d5-41ef-a60d-7fd267d575c1"
+Parent: "50bdb698-8f14-46f3-b783-00823406b73c"
+Template: "72a8d27b-e065-44c9-8833-3b6de7bd9e42"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Value Writers/Common
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C4A008EF-5DC2-4E39-BE6D-8CEAEC838EB2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T222834Z

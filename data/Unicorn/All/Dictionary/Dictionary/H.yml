@@ -1,0 +1,14 @@
+﻿---
+ID: "210c73e9-a557-4156-890f-6eef7f99f551"
+Parent: "504ae189-9f36-4c62-9767-66d73d6c3084"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/system/Dictionary/H
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T002058Z

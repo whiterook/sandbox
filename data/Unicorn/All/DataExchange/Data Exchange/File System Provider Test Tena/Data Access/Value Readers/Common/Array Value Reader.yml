@@ -1,0 +1,14 @@
+﻿---
+ID: "dc1c4171-98df-40a5-87fd-7aa6750dc917"
+Parent: "d7d70383-317b-4fc0-ae7a-d9d62d2ed338"
+Template: "12369b65-8df9-4038-99cc-e71a1174ad94"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Value Readers/Common/Array Value Reader
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171028T033253Z

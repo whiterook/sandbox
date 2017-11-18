@@ -1,0 +1,46 @@
+﻿---
+ID: "b32b8079-fd0b-45c0-b8f9-41bd0b68d479"
+Parent: "dcf524cd-fed8-4e9a-a0f1-5eaef8f163a7"
+Template: "075c4fbd-f54e-4e6d-bd54-d49bda0913d8"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipeline Batches/File to Item Sync Multiple Languages
+DB: master
+SharedFields:
+- ID: "47f8050d-6eee-423f-a9f0-3dc34948c365"
+  Hint: LastRunCompleted
+  Type: Checkbox
+  Value: 1
+- ID: "6a2b2cbb-4338-4814-a8a9-9fecbb90456a"
+  Hint: LastRunFinished
+  Value: 20171028T002358Z
+- ID: "83e6292f-a00e-463d-a1c6-0fc25bc0fbad"
+  Hint: Messages
+  Value: |
+    10/28/2017 12:23:58 AM	ERROR	Pipeline step will be skipped because it does not have a processor assigned (pipeline: Read from File Pipeline Multiple Languages, pipeline step: Read Text File)
+    10/28/2017 12:23:58 AM	ERROR	Pipeline context is missing at least one required plugin. (pipeline: Read from File Pipeline Multiple Languages, pipeline step: Iterate Rows from Text File and Run Pipeline, missing plugins: Sitecore.DataExchange.Plugins.IterableDataSettings)
+    10/28/2017 12:23:58 AM	ERROR	Pipeline step will be skipped because the processor cannot processes the pipeline step. (pipeline: Read from File Pipeline Multiple Languages, pipeline step: Iterate Rows from Text File and Run Pipeline, pipeline step processor: Sitecore.DataExchange.Processors.PipelineSteps.IterateAndRunPipelinesStepProcessor)
+- ID: "9061beea-df25-4b2b-a698-3f5b4e867d18"
+  Hint: Pipelines
+  Type: Treelist
+  Value: "{AD3949D6-A655-4EC0-B663-F192BA807E85}"
+- ID: "985ba535-0f3e-4da8-a768-a469026de9db"
+  Hint: RequestedAt
+  Value: 20171028T002358Z
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: File to Item Sync (Multiple Languages)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T225413Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

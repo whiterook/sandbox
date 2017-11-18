@@ -1,0 +1,18 @@
+﻿---
+ID: "a39c4bf2-e88a-4628-89e3-a24480000864"
+Parent: "cf42fae6-889f-4c7f-b889-5cd99c682703"
+Template: "b384fb2d-fbef-4a8e-9572-fa5fb9f75a7d"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/File to Item Sync Pipeline Single Language/Update Sitecore Item
+DB: master
+SharedFields:
+- ID: "e8609af1-3e0a-41ae-894d-03dcd99165a7"
+  Hint: EndpointTo
+  Value: "{52E5D37C-E0F0-4F91-AFB0-32E19B38A1A8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235651Z

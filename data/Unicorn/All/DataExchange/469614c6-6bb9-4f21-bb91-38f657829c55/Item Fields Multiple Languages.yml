@@ -1,0 +1,26 @@
+﻿---
+ID: "6f5d37a8-9d50-4a48-b801-2c4a13835425"
+Parent: "469614c6-6bb9-4f21-bb91-38f657829c55"
+Template: "7bc71c7a-6199-4b8f-97fe-d11c11b9e5c7"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Value Accessor Sets/Providers/Sitecore/Item Fields Multiple Languages
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Item Fields (Multiple Languages)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T225909Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

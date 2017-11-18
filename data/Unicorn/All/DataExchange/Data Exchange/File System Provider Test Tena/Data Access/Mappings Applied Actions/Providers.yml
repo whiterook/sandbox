@@ -1,0 +1,18 @@
+﻿---
+ID: "0f791703-ba9f-42e3-adb6-d0e7e6a7744f"
+Parent: "b415e17b-075d-46bb-b870-a0d2aaa88c86"
+Template: "4bb18da0-9911-4607-8a8e-32eaac56ff80"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Mappings Applied Actions/Providers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T225326Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

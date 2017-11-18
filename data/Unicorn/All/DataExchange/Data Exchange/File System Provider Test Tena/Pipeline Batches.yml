@@ -1,0 +1,18 @@
+﻿---
+ID: "dcf524cd-fed8-4e9a-a0f1-5eaef8f163a7"
+Parent: "131be833-fb07-4bc8-b893-0de1fa84e09c"
+Template: "cd055acb-8a99-48e0-9e7d-449405c44d4b"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipeline Batches
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25313451-393C-4F1D-B8A8-FA383CA8AA77}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T222835Z

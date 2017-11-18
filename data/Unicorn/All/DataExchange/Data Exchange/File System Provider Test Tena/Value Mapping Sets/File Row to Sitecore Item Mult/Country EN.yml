@@ -1,0 +1,25 @@
+﻿---
+ID: "c2ab473a-4c90-456a-bcd4-3a6656b717ec"
+Parent: "91a5ad20-97bc-4b41-9417-afc5a4cf14d8"
+Template: "450c8f38-91c9-4896-957b-6f7daf18ccfc"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Value Mapping Sets/File Row to Sitecore Item Multiple Languages/Country EN
+DB: master
+SharedFields:
+- ID: "95184b45-efef-447c-9089-4f2ec5df26c5"
+  Hint: SourceAccessor
+  Value: "{3F9AB7A5-094D-44FA-A08A-0A76ADFDD97C}"
+- ID: "ef84b462-7f4a-4f48-b78e-ade192d55e82"
+  Hint: TargetAccessor
+  Value: "{57EB0F9F-EF17-4E1C-A444-1005B62C3BE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T231508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

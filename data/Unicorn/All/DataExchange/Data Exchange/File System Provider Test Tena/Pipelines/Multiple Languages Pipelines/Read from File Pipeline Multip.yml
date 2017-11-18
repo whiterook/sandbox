@@ -1,0 +1,26 @@
+﻿---
+ID: "ad3949d6-a655-4ec0-b663-f192ba807e85"
+Parent: "8420efdc-ac23-4f6c-a888-1a95fd2af890"
+Template: "2dc9c843-b841-483c-bb9b-ae0c9386404c"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Multiple Languages Pipelines/Read from File Pipeline Multiple Languages
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Read from File Pipeline (Multiple Languages)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T231949Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

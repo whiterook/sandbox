@@ -1,0 +1,18 @@
+﻿---
+ID: "039036ab-d9ff-45a7-913f-db1bb5dcb4a1"
+Parent: "2d05501d-72d7-45fd-a19c-240a51ebe3d2"
+Template: "bb9cc1eb-dba2-49c7-a6d1-ec83b3d2e1e3"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Apply Mapping Rules/Providers
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAF382F-3D07-4984-AFCB-1637A5203438}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T222834Z

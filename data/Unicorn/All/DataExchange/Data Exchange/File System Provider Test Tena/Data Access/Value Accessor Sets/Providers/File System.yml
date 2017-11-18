@@ -1,0 +1,14 @@
+﻿---
+ID: "25460d7e-b5be-4cbb-a3a5-ef49f785b74e"
+Parent: "277f97fb-a291-4872-a856-d8a521e74678"
+Template: "fdbf2b3a-a813-49ac-a6f0-db6207d15ae7"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Value Accessor Sets/Providers/File System
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T233248Z

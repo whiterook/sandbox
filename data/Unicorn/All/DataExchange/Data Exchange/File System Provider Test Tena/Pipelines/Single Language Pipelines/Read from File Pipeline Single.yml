@@ -1,0 +1,22 @@
+﻿---
+ID: "312e6c65-2e7e-4b23-b9c9-feffa370667c"
+Parent: "3fef0b17-44c7-4a4d-aabf-ac9e0c314f5e"
+Template: "2dc9c843-b841-483c-bb9b-ae0c9386404c"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/Read from File Pipeline Single Language
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Read from File Pipeline (Single Language)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235720Z

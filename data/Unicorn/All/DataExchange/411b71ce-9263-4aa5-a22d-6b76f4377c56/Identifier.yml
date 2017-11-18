@@ -1,0 +1,18 @@
+﻿---
+ID: "88d15a64-ab0a-4399-8bcd-a663e25d9354"
+Parent: "411b71ce-9263-4aa5-a22d-6b76f4377c56"
+Template: "6f7375cc-9942-4e30-8c63-95281b69c65f"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Data Access/Value Accessor Sets/Providers/Sitecore/Item Fields Single Language/Identifier
+DB: master
+SharedFields:
+- ID: "a011c1d5-1c40-4420-8592-d0ce0306e0dd"
+  Hint: Field
+  Value: "{FF5AE1AF-239D-4D64-A6A7-067874650060}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235046Z

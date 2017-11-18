@@ -1,0 +1,19 @@
+﻿---
+ID: "f15f9014-484e-4197-97ba-8174ffbdeb95"
+Parent: "312e6c65-2e7e-4b23-b9c9-feffa370667c"
+Template: "0fd90877-c5a1-4a9a-b7d5-a8469cfa89b1"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/Read from File Pipeline Single Language/Iterate Rows from Text File and Run Pipeline
+DB: master
+SharedFields:
+- ID: "585fe5a4-68d8-4c1e-8056-635f3d73d723"
+  Hint: Pipelines
+  Type: Treelist
+  Value: "{CF42FAE6-889F-4C7F-B889-5CD99C682703}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235759Z

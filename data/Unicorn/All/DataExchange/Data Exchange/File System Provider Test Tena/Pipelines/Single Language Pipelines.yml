@@ -1,0 +1,18 @@
+﻿---
+ID: "3fef0b17-44c7-4a4d-aabf-ac9e0c314f5e"
+Parent: "1dc5d8d9-62ee-4a14-bf21-8d04916eeaac"
+Template: "70ed1d4d-3796-400d-a64e-e538d933e12c"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T231856Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

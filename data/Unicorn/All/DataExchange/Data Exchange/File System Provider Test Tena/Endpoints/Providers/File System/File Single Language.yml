@@ -1,0 +1,25 @@
+﻿---
+ID: "e16a8c48-3c86-449b-aaa0-c9ed1f26485e"
+Parent: "6f4288d7-14ed-4d4f-a948-7e3b7f1462ef"
+Template: "a28280be-8331-4baa-b5be-41e7456fb67e"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Endpoints/Providers/File System/File Single Language
+DB: master
+SharedFields:
+- ID: "3c7f78cc-0c5c-4076-80ef-9a49fda5ff96"
+  Hint: ConverterType
+  Value: Sandbox.Data.Features.DataExchange.Converters.Endpoints.TextFileEndpointConverter, Sandbox.Data
+- ID: "e8d739bc-79eb-4c15-adcd-c2b223920006"
+  Hint: Path
+  Value: cities.dat
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: File (Single Language)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T230427Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "49127204-7372-4e55-9838-7cf2ae638e30"
+Parent: "131be833-fb07-4bc8-b893-0de1fa84e09c"
+Template: "dde64bb9-5e98-44db-900e-71c15b7924f9"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Queues
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1EC95C54-4692-4283-823A-ED109800380C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T222835Z

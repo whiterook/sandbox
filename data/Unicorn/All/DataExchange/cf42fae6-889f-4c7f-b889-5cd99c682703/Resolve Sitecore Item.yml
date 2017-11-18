@@ -1,0 +1,42 @@
+﻿---
+ID: "d7bc09cc-538e-4a9c-9c08-46a20220043a"
+Parent: "cf42fae6-889f-4c7f-b889-5cd99c682703"
+Template: "d44ae29c-d708-4b3f-b04c-99e7f9288720"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/File to Item Sync Pipeline Single Language/Resolve Sitecore Item
+DB: master
+SharedFields:
+- ID: "010e5d89-6409-4fbc-843b-ceb84c8ed3bb"
+  Hint: IdentifierObjectLocation
+  Value: Pipeline Context Source
+- ID: "21875be1-ad41-4541-88cf-7e47551bb6ac"
+  Hint: ItemNameValueAccessor
+  Value: "{855FEFC4-0594-472E-ADB9-A983439C0DE4}"
+- ID: "3798a7e3-61ff-4ba3-b8ba-f5cba2929517"
+  Hint: TemplateForNewItem
+  Value: "{0FAA76A1-0801-45B9-B662-9F571EB59705}"
+- ID: "4ce9ed44-bc7f-44e5-886d-97d9a6890faa"
+  Hint: IdentifierValueAccessor
+  Value: "{DCB1CA0F-E5A3-47AC-8F93-63B6F1F17255}"
+- ID: "5c061c42-ff86-4f43-b5ad-831dc03dc77d"
+  Hint: ResolvedObjectLocation
+  Value: Pipeline Context Target
+- ID: "922e98e7-be62-4a67-8273-551f2e8c8bfe"
+  Hint: EndpointFrom
+  Value: "{52E5D37C-E0F0-4F91-AFB0-32E19B38A1A8}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d922ea57-bce2-4457-bc60-5fcaafa36707"
+  Hint: ParentForItem
+  Value: 
+- ID: "e074292d-0467-443c-a1b5-cbd5e5162813"
+  Hint: MatchingFieldValueAccessor
+  Value: "{88D15A64-AB0A-4399-8BCD-A663E25D9354}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235446Z

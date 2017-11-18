@@ -1,0 +1,18 @@
+﻿---
+ID: "cf42fae6-889f-4c7f-b889-5cd99c682703"
+Parent: "3fef0b17-44c7-4a4d-aabf-ac9e0c314f5e"
+Template: "2dc9c843-b841-483c-bb9b-ae0c9386404c"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/File to Item Sync Pipeline Single Language
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: File to Item Sync Pipeline (Single Language)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T230215Z

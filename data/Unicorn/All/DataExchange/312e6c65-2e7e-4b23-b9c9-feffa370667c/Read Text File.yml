@@ -1,0 +1,21 @@
+﻿---
+ID: "b4d33684-f304-4b16-8b51-8401c71af7eb"
+Parent: "312e6c65-2e7e-4b23-b9c9-feffa370667c"
+Template: "bb3e3bab-7497-4b84-a13b-46dec07002b3"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/Read from File Pipeline Single Language/Read Text File
+DB: master
+SharedFields:
+- ID: "61c96ed7-b2c6-4cb8-9915-1503e5510260"
+  Hint: EndpointFrom
+  Value: "{E16A8C48-3C86-449B-AAA0-C9ED1F26485E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T230318Z

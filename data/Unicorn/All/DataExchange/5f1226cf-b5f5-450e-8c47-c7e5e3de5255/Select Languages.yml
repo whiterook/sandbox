@@ -1,0 +1,26 @@
+﻿---
+ID: "79d9c85d-a26c-4292-a346-f8198e2a2a7b"
+Parent: "5f1226cf-b5f5-450e-8c47-c7e5e3de5255"
+Template: "607ace19-2701-4188-9091-eb73ee9a3253"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Multiple Languages Pipelines/File to Item Sync Pipeline Multiple Languages/Select Languages
+DB: master
+SharedFields:
+- ID: "af1721be-2cc1-4f32-9e46-71555432cbbc"
+  Hint: Languages
+  Type: Multilist
+  Value: |
+    {C0250DB5-F43B-47CA-AC7F-19901EE926C6}
+    {AF584191-45C9-4201-8740-5409F4CF8BDD}
+    {469690B5-2894-489A-8467-64EF3896BFA7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T233207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

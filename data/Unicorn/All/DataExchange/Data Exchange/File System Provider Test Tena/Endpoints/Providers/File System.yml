@@ -1,0 +1,14 @@
+﻿---
+ID: "6f4288d7-14ed-4d4f-a948-7e3b7f1462ef"
+Parent: "07d33f1c-a465-4115-a750-26f2ede590ea"
+Template: "e77dd07e-5440-47c9-9995-17914fabf035"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Endpoints/Providers/File System
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T224517Z

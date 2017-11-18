@@ -1,0 +1,18 @@
+﻿---
+ID: "545c6fa3-8ffa-4466-976e-dc8d6a2c242a"
+Parent: "cf42fae6-889f-4c7f-b889-5cd99c682703"
+Template: "8e726575-35cf-48a0-b2c9-00c30d16f2d9"
+Path: /sitecore/system/Data Exchange/File System Provider Test Tenant/Pipelines/Single Language Pipelines/File to Item Sync Pipeline Single Language/Apply Mapping
+DB: master
+SharedFields:
+- ID: "cb970e4d-aa7c-4ad1-8984-59bf01163d08"
+  Hint: MappingSet
+  Value: "{8C5E6003-EECD-4113-9C2D-3456A9AB9B55}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T235627Z
