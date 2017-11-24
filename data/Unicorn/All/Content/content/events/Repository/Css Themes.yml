@@ -1,0 +1,14 @@
+﻿---
+ID: "fc61be99-3b30-455b-8506-7df26e6ea0b1"
+Parent: "ecf6eb64-649f-4301-b3ff-ced6312f86e7"
+Template: "0ed83deb-896e-453c-888a-db04366f5c0c"
+Path: /sitecore/content/events/Repository/Css Themes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T162230Z

@@ -18,7 +18,16 @@ SharedFields:
     <r>
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{57E9D492-7D60-49C5-B227-B8E816DBFC31}" />
+        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}">
+        <r
+          id="{D3808152-E0E5-4E9E-84C8-1700F9AE785E}"
+          ph="main"
+          uid="{F6446BF1-BAEA-4E5A-A216-837078C85A79}" />
+        <r
+          id="{1FAC2AB1-E636-4442-8486-12468D54C0D4}"
+          ph="pageContent"
+          uid="{878FC81A-3F7E-4758-A4BF-8A50E957226B}" />
+      </d>
     </r>
 Languages:
 - Language: en

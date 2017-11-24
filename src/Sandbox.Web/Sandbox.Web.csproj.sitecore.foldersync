@@ -1,11 +1,5 @@
 ﻿<Project>
   <FolderSync SynchronizeProjectOutputFolderOnBuild="False">
-    <Folder SourceFolder="Views\" DestinationFolder="Views\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="assets\" DestinationFolder="assets\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="assets\css\" DestinationFolder="assets\css\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="assets\fonts\" DestinationFolder="assets\fonts\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="assets\js\" DestinationFolder="assets\js\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="assets\Images\" DestinationFolder="assets\Images\" Mode="Copy" Pattern="*.*" />
-    <Folder SourceFolder="App_Config\Include\Unicorn\" DestinationFolder="App_Config\Include\Unicorn\" Mode="Copy" Pattern="*.*" />
+    <Folder SourceFolder="Views\" DestinationFolder="Views\" Mode="Mirror" Pattern="*.*" />
   </FolderSync>
 </Project>

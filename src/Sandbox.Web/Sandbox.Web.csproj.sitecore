@@ -6,14 +6,26 @@
     <Item DatabaseName="master">{83FF3BF9-93E7-45C0-A049-8A4B19280BA7}</Item>
   </File>
   <File Include="App_Config\Include\SandboxSiteDefinition.config" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
-  <File Include="Views\Events\Layouts\Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{57E9D492-7D60-49C5-B227-B8E816DBFC31}</Item>
-  </File>
   <File Include="/Views/Events/Layouts/Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{57E9D492-7D60-49C5-B227-B8E816DBFC31}</Item>
   </File>
   <File Include="Views\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
   <File Include="/Views/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}</Item>
+  </File>
+  <File Include="Views\Events\HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{1FAC2AB1-E636-4442-8486-12468D54C0D4}</Item>
+  </File>
+  <File Include="Views\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{F72DB268-63FA-4CAA-AD39-CE3E93F9CBED}</Item>
+  </File>
+  <File Include="Views\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C0257D12-3856-4DB2-A5A8-D343DA47D257}</Item>
+  </File>
+  <File Include="Views\Events\One-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{D3808152-E0E5-4E9E-84C8-1700F9AE785E}</Item>
+  </File>
+  <File Include="Views\Events\Two-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{88CB0C36-A31C-4DB3-8CEB-49A48BC98FDB}</Item>
   </File>
 </Project>

@@ -1,0 +1,23 @@
+﻿---
+ID: "4fa16db2-fda3-42e8-8607-59e77014f32f"
+Parent: "0ed83deb-896e-453c-888a-db04366f5c0c"
+Template: "0ed83deb-896e-453c-888a-db04366f5c0c"
+Path: /sitecore/templates/Sandbox/Common/Folders/Css Themes Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{556746BE-4045-45E2-8090-38F5240FC049}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T162051Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

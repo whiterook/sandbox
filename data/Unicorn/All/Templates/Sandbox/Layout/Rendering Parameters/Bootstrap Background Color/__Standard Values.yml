@@ -1,0 +1,21 @@
+﻿---
+ID: "1c457201-99f4-4938-9fe1-d22157d24b8e"
+Parent: "b727a9c5-be7f-4ff0-b81a-587ff1d0c420"
+Template: "b727a9c5-be7f-4ff0-b81a-587ff1d0c420"
+Path: /sitecore/templates/Sandbox/Layout/Rendering Parameters/Bootstrap Background Color/__Standard Values
+DB: master
+SharedFields:
+- ID: "0793dcff-0ee7-48ad-b9d4-ef1dd24eb59b"
+  Hint: Data Source
+  Value: 
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T152048Z

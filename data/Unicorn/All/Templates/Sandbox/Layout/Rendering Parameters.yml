@@ -1,0 +1,18 @@
+﻿---
+ID: "0d9d230c-8d48-44a6-b973-12e6daa35a65"
+Parent: "9b7fbff5-552c-4ddf-a2cf-4b7d79e9eb51"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Sandbox/Layout/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T151851Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

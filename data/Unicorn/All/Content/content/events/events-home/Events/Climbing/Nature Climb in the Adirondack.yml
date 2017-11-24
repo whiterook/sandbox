@@ -9,12 +9,31 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0c2b4f0c-80a4-463e-a5d6-8c618d93fdde"
+      Hint: Start Date
+      Value: 20170402T040000Z
+    - ID: "1f10433a-b85b-45d1-926e-876f4607c967"
+      Hint: Duration
+      Value: 3
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171106T003852Z
+    - ID: "26479a9c-fb66-4ecc-88ee-15b5af8da9e2"
+      Hint: Difficulty Level
+      Value: 2
+    - ID: "3232163e-4f1e-46c4-b6a4-976c8cd54a69"
+      Hint: Event Image
+      Value: |
+        <image mediaid="{A3883F41-41AF-4822-A92C-E98D67DE9324}" ></image>
     - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
       Hint: MetaDescription
       Value: Nature Climb in the Adirondacks
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
       Hint: MetaTitle
       Value: Nature Climb in the Adirondacks
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: Rock Climbing in the Czech Republic
+    - ID: "f6455d24-0804-486d-9b62-50dd626b6d11"
+      Hint: ContentBody
+      Value: "This two-day tour begins with a stay at the ancient Karl&scaron;tejn Castle established by Roman Emperor Charles IV to store crowned jewels and holy relics. After our castle stay, we will move on to Cesky Raj, whose translates into Bohemian Paradise, the oldest nature reserve in the Czech Republic."

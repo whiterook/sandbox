@@ -1,0 +1,24 @@
+﻿---
+ID: "ff798d6f-6aba-48b3-8ba5-c0467b9254b8"
+Parent: "c4404403-26a0-4f9d-999f-8783a2688ce8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Sandbox/Layout/Rendering Parameters/Bootstrap Background Color/Background  Details/CssClass
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:fast:/sitecore/content//*[@@templateid = '{0ED83DEB-896E-453C-888A-DB04366F5C0C}']//*[@@templateid = '{556746BE-4045-45E2-8090-38F5240FC049}']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T152244Z

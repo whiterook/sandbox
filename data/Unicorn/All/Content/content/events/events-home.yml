@@ -9,6 +9,55 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F6446BF1-BAEA-4E5A-A216-837078C85A79}">
+              <p:d />
+            </r>
+            <r
+              uid="{878FC81A-3F7E-4758-A4BF-8A50E957226B}">
+              <p:d />
+            </r>
+            <r
+              uid="{71766B82-F801-44BE-A5B9-B8C37DAB3083}"
+              p:before="*"
+              s:ds="{64534A35-57F5-445E-B5C6-118EF0B904B2}"
+              s:id="{87A1D613-08C0-4AED-B298-83AD4C0ACDCE}"
+              s:par="CssClass=bg-primary"
+              s:ph="/main/pageContent/featuredEvents" />
+            <r
+              uid="{519D7493-54C8-4108-8E6F-A464EE2B7781}"
+              p:after="r[@uid='{71766B82-F801-44BE-A5B9-B8C37DAB3083}']"
+              s:ds="{CFA35184-7C1A-42F9-B86C-7C2DF76F4CB6}"
+              s:id="{87A1D613-08C0-4AED-B298-83AD4C0ACDCE}"
+              s:par=""
+              s:ph="/main/pageContent/featuredEvents" />
+            <r
+              uid="{1C822D24-D85C-4FBF-B056-5AFEF5ECAF4D}"
+              p:after="r[@uid='{519D7493-54C8-4108-8E6F-A464EE2B7781}']"
+              s:ds="{C6590758-6C63-42CC-92CE-9E9E37640CBB}"
+              s:id="{87A1D613-08C0-4AED-B298-83AD4C0ACDCE}"
+              s:ph="/main/pageContent/featuredEvents" />
+            <r
+              uid="{0F70D432-44F1-47E3-8A9C-0C9CCB1BA7BC}"
+              p:after="r[@uid='{1C822D24-D85C-4FBF-B056-5AFEF5ECAF4D}']"
+              s:id="{1FAC2AB1-E636-4442-8486-12468D54C0D4}"
+              s:ph="/main/pageContent" />
+            <r
+              uid="{C9DFF366-89D1-48F5-9720-46122E858236}"
+              p:after="*[1=2]"
+              s:id="{D3808152-E0E5-4E9E-84C8-1700F9AE785E}"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171106T000823Z

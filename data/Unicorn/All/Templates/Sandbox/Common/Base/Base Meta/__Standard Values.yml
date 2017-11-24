@@ -13,10 +13,10 @@ Languages:
       Hint: __Created
       Value: 20171021T132933Z
     - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
-      Hint: Description
+      Hint: MetaDescription
       Value: $name
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
-      Hint: Title
+      Hint: MetaTitle
       Value: $name
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by

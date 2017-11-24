@@ -5,14 +5,34 @@ Template: "8b0b7d1a-d359-4871-90d2-347de60fad4f"
 Path: /sitecore/templates/Sandbox/Events/Pages/Event Detail Page/__Standard Values
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
   Value: |
-    <r>
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}" />
+        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}">
+        <r
+          id="{88CB0C36-A31C-4DB3-8CEB-49A48BC98FDB}"
+          ph="main"
+          uid="{00DE6E55-3F4D-493D-AF7E-DA197EB0EC7F}" />
+        <r
+          id="{F72DB268-63FA-4CAA-AD39-CE3E93F9CBED}"
+          ph="pageSide"
+          uid="{FBAC84EB-A56E-4779-A227-35747B381CD7}" />
+        <r
+          id="{5349D76D-4824-4CDC-8825-46763A26CF80}"
+          ph="pageContent"
+          uid="{95BC1600-74B4-41A7-9A21-CD51E4A911A7}" />
+        <r
+          id="{C0257D12-3856-4DB2-A5A8-D343DA47D257}"
+          ph="pageContent"
+          uid="{5199942B-2CB8-4CD8-B746-0CDA85F15045}" />
+      </d>
     </r>
 Languages:
 - Language: en

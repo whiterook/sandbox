@@ -1,0 +1,20 @@
+﻿---
+ID: "f4dc0c8e-8a29-4747-b602-533d523c0f72"
+Parent: "fc61be99-3b30-455b-8506-7df26e6ea0b1"
+Template: "556746be-4045-45e2-8090-38f5240fc049"
+Path: /sitecore/content/events/Repository/Css Themes/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T162745Z
+    - ID: "3d57e94c-ccef-4383-b814-782b9a74ff80"
+      Hint: Css Class
+      Value: "bg-default"
+    - ID: "8842fd54-6f01-48f7-a880-794a6e61f25c"
+      Hint: Name
+      Value: Default
