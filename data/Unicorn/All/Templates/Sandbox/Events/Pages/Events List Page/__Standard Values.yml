@@ -13,10 +13,19 @@ SharedFields:
   Hint: __Renderings
   Type: layout
   Value: |
-    <r>
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}" />
+        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}">
+        <r
+          id="{88CB0C36-A31C-4DB3-8CEB-49A48BC98FDB}"
+          ph="main"
+          uid="{E2B881C1-8CA3-4F91-95AD-8CEEFED388F9}" />
+        <r
+          id="{846C03EB-BD6E-4437-871C-BF389763EFBC}"
+          ph="pageHeader"
+          uid="{CB8D6E18-3408-4F45-B50B-1F1EA555F6FF}" />
+      </d>
     </r>
 Languages:
 - Language: en

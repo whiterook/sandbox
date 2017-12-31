@@ -8,5 +8,6 @@ namespace Sandbox.Web.Models
         public HtmlString Intro { get; set; }
         public HtmlString EventImage { get; set; }
         public string CssClass { get; set; }
+        public string Url { get; set; }
     }
 }

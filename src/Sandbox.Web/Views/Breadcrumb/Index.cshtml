@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Sandbox.Web.Models.NavigationItem>
+    				
+<ol class="breadcrumb">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a class="@(item.Active ? "active" : string.Empty)" href="@item.Url">@item.Title</a>
+        </li>
+    }
+</ol>

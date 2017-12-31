@@ -1,0 +1,24 @@
+﻿---
+ID: "1f3c8349-4aa3-4d92-8439-737fd29659e0"
+Parent: "7b72610b-459b-464f-a171-9cc67c7db167"
+Template: "70a43fa9-7fc0-4f5d-8a8a-0ba8e7f603ff"
+Path: "/sitecore/content/events/events-home/Events/Cycling"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171125T192421Z
+    - ID: "3ca72650-94cf-4653-9fbb-dc0f0f113af2"
+      Hint: MetaDescription
+      Value: Cycling
+    - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
+      Hint: MetaTitle
+      Value: Cycling

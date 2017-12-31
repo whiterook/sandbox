@@ -31,7 +31,7 @@ Languages:
               p:before="*"
               s:ds="{64534A35-57F5-445E-B5C6-118EF0B904B2}"
               s:id="{87A1D613-08C0-4AED-B298-83AD4C0ACDCE}"
-              s:par="CssClass=bg-primary"
+              s:par="CssClass={75CE9A57-BA67-4141-A936-A15D83678861}"
               s:ph="/main/pageContent/featuredEvents" />
             <r
               uid="{519D7493-54C8-4108-8E6F-A464EE2B7781}"

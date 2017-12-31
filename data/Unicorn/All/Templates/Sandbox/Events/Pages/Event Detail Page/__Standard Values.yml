@@ -32,6 +32,10 @@ SharedFields:
           id="{C0257D12-3856-4DB2-A5A8-D343DA47D257}"
           ph="pageContent"
           uid="{5199942B-2CB8-4CD8-B746-0CDA85F15045}" />
+        <r
+          id="{846C03EB-BD6E-4437-871C-BF389763EFBC}"
+          ph="pageHeader"
+          uid="{F2A8B6E1-EC08-4EFF-A3BC-217493172038}" />
       </d>
     </r>
 Languages:
@@ -42,6 +46,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171105T235938Z
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: $name
     - ID: "c6a4d03a-6241-443d-ac52-3a4170280196"
       Hint: Highlights
       Value: List event highlights here...

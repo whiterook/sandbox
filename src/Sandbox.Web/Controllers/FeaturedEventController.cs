@@ -1,6 +1,7 @@
 using System.Web;
 using System.Web.Mvc;
 using Sandbox.Web.Models;
+using Sitecore.Links;
 using Sitecore.Mvc.Presentation;
 using Sitecore.Web.UI.WebControls;
 
@@ -22,8 +23,8 @@ namespace Sandbox.Web.Controllers
             {
                 var currentRendering = RenderingContext.Current.Rendering;
                 var renderingItem = currentRendering.Item;
-
                 var renderingParameter = currentRendering.Parameters["CssClass"];
+
                 string css = null;
 
                 if (!string.IsNullOrEmpty(renderingParameter))
@@ -38,7 +39,8 @@ namespace Sandbox.Web.Controllers
                     Heading = new HtmlString(FieldRenderer.Render(renderingItem, "ContentHeading")),
                     Intro = new HtmlString(FieldRenderer.Render(renderingItem, "ContentIntro")),
                     EventImage = new HtmlString(FieldRenderer.Render(renderingItem, "Event Image", "mw = 400")),
-                    CssClass = css
+                    CssClass = css,
+                    Url = LinkManager.GetItemUrl(renderingItem)
                 };
             }
         }

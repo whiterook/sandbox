@@ -701,10 +701,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\BreadcrumbController.cs" />
     <Compile Include="Controllers\EventIntroController.cs" />
     <Compile Include="Constants\PlaceholderKeys.cs" />
-    <Compile Include="Constants\Template.cs" />
+    <Compile Include="Constants\SitecoreTemplate.cs" />
     <Compile Include="Controllers\FeaturedEventController.cs" />
+    <Compile Include="Controllers\NavigationController.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\ArrayValueAccessorConverter.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\MergeColumnsConverter.cs" />
     <Compile Include="Features\DataExchange\Converters\Endpoints\TextFileEndpointConverter.cs" />
@@ -718,6 +720,8 @@
     <Compile Include="Features\DataExchange\Processors\PipelineSteps\ReadTextFileStepProcessor.cs" />
     <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Models\FeaturedEvent.cs" />
+    <Compile Include="Models\NavigationItem.cs" />
+    <Compile Include="Models\NavigationMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -770,7 +774,6 @@
     <Content Include="assets\js\respond.min.js" />
     <Content Include="assets\js\Sitecore.Foundation.Theming.min.js" />
     <Content Include="assets\js\wow.min.js" />
-    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Views\web.config" />
     <Content Include="App_Config\ConnectionStrings.config" />
@@ -864,6 +867,8 @@
     <Content Include="Views\Events\Two-Column.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\FeaturedEvent\Index.cshtml" />
+    <Content Include="Views\Breadcrumb\Index.cshtml" />
+    <Content Include="Views\Navigation\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

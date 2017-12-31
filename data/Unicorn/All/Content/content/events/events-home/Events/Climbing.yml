@@ -22,3 +22,6 @@ Languages:
       Hint: Banner
       Value: |
         <image mediapath="/sandbox/events/climbing-events" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/sandbox/events/climbing-events" mediaid="{D24DA677-BC1B-4477-B190-22B5ED93A814}" />
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: Climbing

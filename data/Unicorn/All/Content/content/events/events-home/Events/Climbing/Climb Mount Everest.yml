@@ -23,6 +23,20 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F2A8B6E1-EC08-4EFF-A3BC-217493172038}"
+              s:ds="{F5C6D7CF-B6B3-4CB5-AC6A-A46B1387EED5}"
+              s:par="" />
+          </d>
+        </r>
     - ID: "0c2b4f0c-80a4-463e-a5d6-8c618d93fdde"
       Hint: Start Date
       Value: 20170803T224200Z
