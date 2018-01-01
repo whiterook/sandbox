@@ -1,0 +1,22 @@
+﻿---
+ID: "88cb0c36-a31c-4db3-8ceb-49a48bc98fdb"
+Parent: "cd73ae9a-c132-45bb-8fde-800cab7c432e"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: "/sitecore/layout/Renderings/Sandbox/Events/Two-Column"
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: "/Views/Events/Two-Column.cshtml"
+- ID: "e441abe7-2ca3-4640-ae26-3789967925d7"
+  Hint: Compatible Renderings
+  Type: Treelist
+  Value: "{D3808152-E0E5-4E9E-84C8-1700F9AE785E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171119T210247Z

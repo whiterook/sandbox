@@ -16,8 +16,10 @@ namespace Sandbox.Web.Controllers
         public ActionResult Index()
         {
             var currentContextItem = RenderingContext.CurrentOrNull.ContextItem;
-            var section =
-                currentContextItem.Axes.GetAncestors().FirstOrDefault(x => x.TemplateID == SitecoreTemplate.EventSectionTemplateId);
+            var section = currentContextItem
+                .Axes
+                .GetAncestors()
+                .FirstOrDefault(x => x.TemplateID == SitecoreTemplate.EventSectionTemplateId);
 
             var model =
                 CreateNavigationMenu(section, currentContextItem);
