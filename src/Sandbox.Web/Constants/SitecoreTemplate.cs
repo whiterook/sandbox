@@ -13,6 +13,6 @@ namespace Sandbox.Web.Constants
         public static string EventImage => "Evant Image";
         public static string Highlights => "Highlights";
 
-        public static ID EventSectionTemplateId => ID.Parse("{D8F6BCF4 -0357-4D22-A2D3-6B1CFC1E843E}");
+        public static ID EventSectionTemplateId => ID.Parse("{D8F6BCF4-0357-4D22-A2D3-6B1CFC1E843E}");
     }
 }
