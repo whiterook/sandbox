@@ -13,7 +13,7 @@ SharedFields:
   Value: "{B727A9C5-BE7F-4FF0-B81A-587FF1D0C420}"
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Sandbox/Events/Pages/Event Detail Page
+  Value: /sitecore/templates/Sandbox/Events/Event Details
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "/sitecore/content/events/events-home/Events"

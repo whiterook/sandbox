@@ -16,13 +16,19 @@ namespace Sandbox.Web.Controllers
         public ActionResult Index()
         {
             var currentContextItem = RenderingContext.CurrentOrNull.ContextItem;
-            var section = currentContextItem
-                .Axes
-                .GetAncestors()
-                .FirstOrDefault(x => x.TemplateID == SitecoreTemplate.EventSectionTemplateId);
+
+            var dataSourceId = RenderingContext.CurrentOrNull.Rendering.DataSource;
+            var dataSource = Sitecore.Context.Database.GetItem(dataSourceId);
+
+            var rootTemplateId = dataSource != null ? dataSource.TemplateID : SitecoreTemplate.EventSectionTemplateId;
+
+            var root = currentContextItem
+                              .Axes
+                              .GetAncestors()
+                              .FirstOrDefault(x => x.TemplateID == rootTemplateId) ?? currentContextItem;
 
             var model =
-                CreateNavigationMenu(section, currentContextItem);
+                CreateNavigationMenu(root, currentContextItem);
 
             return View(model);
         }

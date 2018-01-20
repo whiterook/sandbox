@@ -32,6 +32,9 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{2E714F2C-0C9C-4DBD-859C-05B620B87638}"
+              s:ds="" />
+            <r
               uid="{F2A8B6E1-EC08-4EFF-A3BC-217493172038}"
               s:ds="{F5C6D7CF-B6B3-4CB5-AC6A-A46B1387EED5}"
               s:par="" />
@@ -56,6 +59,12 @@ Languages:
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
       Hint: MetaTitle
       Value: Climb Mount Everest
+    - ID: "94ae7a31-71ff-494e-9c55-b844ac496932"
+      Hint: Related Events
+      Type: Treelist
+      Value: |
+        {CFA35184-7C1A-42F9-B86C-7C2DF76F4CB6}
+        {019AA6A5-2AA5-46E4-A979-E6C86D5D1F78}
     - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
       Hint: ContentHeading
       Value: Climbing the Face of Half Dome

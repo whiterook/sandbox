@@ -22,7 +22,9 @@ SharedFields:
           ph="main"
           uid="{E2B881C1-8CA3-4F91-95AD-8CEEFED388F9}" />
         <r
+          ds="{D8F6BCF4-0357-4D22-A2D3-6B1CFC1E843E}"
           id="{F3E4C9FB-DF95-44B6-BCD1-7DE14A52617F}"
+          par=""
           ph="pageSide"
           uid="{308A803F-10FC-47B6-BD29-2247004B3C51}" />
         <r
