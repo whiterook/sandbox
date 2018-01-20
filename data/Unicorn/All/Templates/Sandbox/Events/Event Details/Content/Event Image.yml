@@ -1,0 +1,21 @@
+﻿---
+ID: "3232163e-4f1e-46c4-b6a4-976c8cd54a69"
+Parent: "f7af9c42-8315-45df-a0be-161511ecb31a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Sandbox/Events/Event Details/Content/Event Image
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171105T235729Z
