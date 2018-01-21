@@ -1,8 +1,8 @@
 ﻿---
 ID: "d8f6bcf4-0357-4d22-a2d3-6b1cfc1e843e"
-Parent: "e506d6b0-61a6-40e4-98c4-35180a5efc2f"
+Parent: "c5d8ecd5-a96b-4cb1-b862-f48d1fbf46ee"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Sandbox/Events/Pages/Events Section Page
+Path: /sitecore/templates/Sandbox/Events/Events Section
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

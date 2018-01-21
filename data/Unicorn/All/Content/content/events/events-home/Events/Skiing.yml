@@ -18,3 +18,10 @@ Languages:
     - ID: "481a1bda-0cb8-442d-8bef-1562c3ce6af4"
       Hint: MetaTitle
       Value: Skiing
+    - ID: "69808455-45b4-4131-a923-4e16d5977009"
+      Hint: Banner
+      Value: |
+        <image mediaid="{1002DB1B-8429-4DAA-B598-C53B1EAC24E6}" />
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: Skiing

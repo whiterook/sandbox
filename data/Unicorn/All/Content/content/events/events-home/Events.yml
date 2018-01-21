@@ -9,21 +9,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Type: Layout
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1"
-          s:xsd="http://www.w3.org/2001/XMLSchema">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{3649615F-CC02-4BAE-89F6-37EB82CFD266}"
-              s:id="{D3808152-E0E5-4E9E-84C8-1700F9AE785E}"
-              s:ph="main" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171106T003150Z

@@ -704,6 +704,7 @@
     <Compile Include="Constants\SitecoreTemplate.cs" />
     <Compile Include="Controllers\FeaturedEventController.cs" />
     <Compile Include="Controllers\NavigationController.cs" />
+    <Compile Include="Controllers\OverviewController.cs" />
     <Compile Include="Controllers\RelatedEventsController.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\ArrayValueAccessorConverter.cs" />
     <Compile Include="Features\DataExchange\Converters\DataAccess\MergeColumnsConverter.cs" />
@@ -721,6 +722,8 @@
     <Compile Include="Models\FeaturedEvent.cs" />
     <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Models\NavigationMenu.cs" />
+    <Compile Include="Models\OverviewItem.cs" />
+    <Compile Include="Models\OverviewList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -874,6 +877,7 @@
     <Content Include="Views\Breadcrumb\Index.cshtml" />
     <Content Include="Views\Navigation\Index.cshtml" />
     <Content Include="Views\RelatedEvents\Index.cshtml" />
+    <Content Include="Views\Overview\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

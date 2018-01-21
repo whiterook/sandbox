@@ -2,7 +2,7 @@
 ID: "d64b4dc8-1a8f-4e89-890f-65fb308e61d1"
 Parent: "d8f6bcf4-0357-4d22-a2d3-6b1cfc1e843e"
 Template: "d8f6bcf4-0357-4d22-a2d3-6b1cfc1e843e"
-Path: /sitecore/templates/Sandbox/Events/Pages/Events Section Page/__Standard Values
+Path: /sitecore/templates/Sandbox/Events/Events Section/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
@@ -13,10 +13,19 @@ SharedFields:
   Hint: __Renderings
   Type: layout
   Value: |
-    <r>
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}" />
+        l="{7AF5FCFB-D37B-4D5F-A925-22AC71FE0FDD}">
+        <r
+          id="{D3808152-E0E5-4E9E-84C8-1700F9AE785E}"
+          ph="main"
+          uid="{22E0C4D7-78D9-46BC-BC4F-A5BF3E379CF8}" />
+        <r
+          id="{955ED017-A9EA-4AA2-B67D-0C8ACBAE708C}"
+          ph="pageContent"
+          uid="{1279B2CF-037E-4B28-B19A-71AAB6744AA7}" />
+      </d>
     </r>
 Languages:
 - Language: en

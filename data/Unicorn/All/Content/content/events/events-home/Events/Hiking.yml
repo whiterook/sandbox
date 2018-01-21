@@ -22,3 +22,6 @@ Languages:
       Hint: Banner
       Value: |
         <image mediapath="/sandbox/events/hiking-events" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/sandbox/events/hiking-events" mediaid="{45114EA4-19D2-441D-B6BF-C4510CCA1445}" />
+    - ID: "acfa1666-212f-4ff8-8c9d-61cf22cecd3d"
+      Hint: ContentHeading
+      Value: Hiking
