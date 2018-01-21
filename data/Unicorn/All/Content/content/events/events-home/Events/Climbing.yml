@@ -4,6 +4,10 @@ Parent: "7b72610b-459b-464f-a171-9cc67c7db167"
 Template: "70a43fa9-7fc0-4f5d-8a8a-0ba8e7f603ff"
 Path: "/sitecore/content/events/events-home/Events/Climbing"
 DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}"
 Languages:
 - Language: en
   Versions:

@@ -1,17 +1,23 @@
-﻿@model IEnumerable<Sandbox.Web.Models.NavigationItem>
+﻿@using Sitecore.Configuration
+@using Sitecore.Mvc.Extensions
+@using Sitecore.Mvc.Presentation
+@model IEnumerable<Sandbox.Web.Models.NavigationItem>
 
-<!-- [Related Events] -->
-<div class="bg-primary side-widget">
-    <h4 class="text-uppercase">Other events you will like</h4>
-    <div class="sidebar">
-        <ul class="nav nav-pills nav-stacked">
-            @foreach (var item in Model)
-            {
-                <li>
-                    <a href=@item.Url>@item.Title</a>
-                </li>
-            }
-        </ul>
+@using (Html.EditFrame(RenderingContext.Current.ContextItem.Paths.FullPath, "Related Events", null, null, null, null))
+{
+    <!-- [Related Events] -->
+    <div class="bg-primary side-widget">
+        <h4 class="text-uppercase">Other events you will like</h4>
+        <div class="sidebar">
+            <ul class="nav nav-pills nav-stacked">
+                @foreach (var item in Model)
+                {
+                    <li>
+                        <a href=@item.Url>@item.Title</a>
+                    </li>
+                }
+            </ul>
+        </div>
     </div>
-</div>
-<!-- [/Related Events] -->
+    <!-- [/Related Events] -->
+}

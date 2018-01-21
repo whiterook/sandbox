@@ -4,6 +4,10 @@ Parent: "d731ea65-2859-402e-a832-fde32f5f93ec"
 Template: "d8f6bcf4-0357-4d22-a2d3-6b1cfc1e843e"
 Path: "/sitecore/content/events/events-home/Events"
 DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}"
 Languages:
 - Language: en
   Versions:
